@@ -101,6 +101,8 @@ Top 5 Products by Revenue:
   Headphones      $8,034.00
 
 Highest Order Value: Order O81 → $4,320.00
+<img width="998" height="517" alt="Screenshot 2025-11-16 at 9 58 26 PM" src="https://github.com/user-attachments/assets/924192ca-82aa-456b-9a0a-de17f0115e3a" />
+
 
 
 ## Results
