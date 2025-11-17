@@ -62,6 +62,39 @@ pip install matplotlib
 
 ### Use the commands shown above to execute each assignment and its tests.
 
+## Sample Output
+
+### Assignment 1 – Producer–Consumer
+=== Fast Producer–Consumer Demo ===
+Dict Data: produced=20, consumed=20
+Tuple Data: produced=20, consumed=20
+Dataclass Orders: produced=10, consumed=10
+Nested JSON: produced=10, consumed=10
+
+--- Multi-Producer Test ---
+Total produced: 30, consumed: 30
+
+### Assignment2
+=== SALES ANALYTICS REPORT ===
+Total Records: 120
+Total Revenue: $104,575.50
+
+Revenue by Region:
+  North      $28,642.50
+  South      $28,383.50
+  East       $36,495.00
+  West       $11,054.50
+
+Top 5 Products by Revenue:
+  Phone           $27,720.00
+  Laptop          $16,560.00
+  Camera          $12,302.50
+  Tablet          $9,690.00
+  Headphones      $8,034.00
+
+Highest Order Value: Order O81 → $4,320.00
+
+
 ## Results
 
 Assignment 1: Producer–Consumer program executes successfully with multiple producers and consumers.
