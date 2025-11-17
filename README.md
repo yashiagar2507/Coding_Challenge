@@ -23,7 +23,7 @@ python -m assignment1.producer_consumer
 ```
 ### How to Test
 ```bash
-python -m unittest discover -s assignment2/tests -p "test_*.py" -v
+python -m unittest discover -s assignment1/tests -p "test_*.py" -v
 ```
 ## Assignment 2 – CSV Data Analysis using Functional Programming
 ### Description
@@ -69,3 +69,7 @@ Assignment 1: Producer–Consumer program executes successfully with multiple pr
 Assignment 2: Sales analytics program runs correctly, printing aggregated results and displaying monthly revenue visualization.
 
 All unit tests for both assignments pass successfully.
+
+## Author
+**Yashi Agarwal**  
+[GitHub Profile](https://github.com/yashiagar2507)
