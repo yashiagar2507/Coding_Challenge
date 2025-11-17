@@ -70,6 +70,25 @@ Assignment 2: Sales analytics program runs correctly, printing aggregated result
 
 All unit tests for both assignments pass successfully.
 
+## Structure
+Coding_Challenge/
+├── assignment1/
+│   ├── __init__.py
+│   ├── producer_consumer.py
+│   └── tests/
+│       ├── __init__.py
+│       └── test_producer_consumer.py
+│
+├── assignment2/
+│   ├── __init__.py
+│   ├── sales_analysis.py
+│   ├── data/
+│   │   └── sales.csv
+│   └── tests/
+│       ├── __init__.py
+│       └── test_sales_analysis.py
+
+
 ## Author
 **Yashi Agarwal**  
 [GitHub Profile](https://github.com/yashiagar2507)
