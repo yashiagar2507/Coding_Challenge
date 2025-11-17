@@ -58,25 +58,33 @@ cd Coding_Challenge
 pip install matplotlib
 ```
 
-### Run Programs and Tests
+Run Programs and Tests
 
-### Use the commands shown above to execute each assignment and its tests.
+Use the commands shown above to execute each assignment and its tests.
 
 ## Sample Output
 
 ### Assignment 1 – Producer–Consumer
+
 === Fast Producer–Consumer Demo ===
+
 Dict Data: produced=20, consumed=20
+
 Tuple Data: produced=20, consumed=20
+
 Dataclass Orders: produced=10, consumed=10
+
 Nested JSON: produced=10, consumed=10
 
 --- Multi-Producer Test ---
 Total produced: 30, consumed: 30
 
-### Assignment2
+
+### Assignment 2 - Sales Data Analysis
 === SALES ANALYTICS REPORT ===
+
 Total Records: 120
+
 Total Revenue: $104,575.50
 
 Revenue by Region:
