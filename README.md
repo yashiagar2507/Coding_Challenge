@@ -105,11 +105,11 @@ Highest Order Value: Order O81 → $4,320.00
 
 ## Results
 
-Assignment 1: Producer–Consumer program executes successfully with multiple producers and consumers.
+- **Assignment 1:** Producer–Consumer program executes successfully with multiple producers and consumers.  
+- **Assignment 2:** Sales analytics program runs correctly, printing aggregated results and displaying monthly revenue visualization.  
+- All unit tests for both assignments pass successfully.  
+- **Results of all analyses are printed directly to the console as part of program execution.**
 
-Assignment 2: Sales analytics program runs correctly, printing aggregated results and displaying monthly revenue visualization.
-
-All unit tests for both assignments pass successfully.
 
 
 ## Author
